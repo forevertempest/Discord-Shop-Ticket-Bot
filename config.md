@@ -15,7 +15,7 @@
 - `workflow.includeAcceptButton`: true
 - `workflow.autoAcceptOnManagerMessage`: false
 - `workflow.archiveCompletedTickets`: true
-- `panel.imageFile`: Zakaz.png
+- `panel.imageFile`: test.png
 - `panel.maxUploadMB`: 7.5
 - `panel.maxOptimizedWidth`: 2200
 - `panel.showText`: false
