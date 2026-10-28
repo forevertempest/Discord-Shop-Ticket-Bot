@@ -116,8 +116,8 @@ shop-ticket-bot/
 ### 4. Установка и запуск
 
 ```bash
-git clone https://github.com/your-username/shop-ticket-bot.git
-cd shop-ticket-bot
+git clone https://github.com/forevertempest/Discord-Shop-Ticket-Bot.git
+cd Discord-Shop-Ticket-Bot
 
 npm install
 cp .env.example .env
